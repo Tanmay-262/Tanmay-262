@@ -6,7 +6,7 @@
 🤝 I’m looking for help with Advanced cybersecurity concepts, real-world attack–defense scenarios, and improving system-level thinking.<br>
 🌱 I’m currently learning Cybersecurity fundamentals, network security tools, and applied AI—focused on understanding why things work, not just how.<br>
 💬 Ask me about Python, DSA, cybersecurity basics, AI projects, or turning raw ideas into structured tech projects.<br>
-⚡ Fun factI don’t trust “easy wins”—if a project doesn’t challenge me, I lose interest fast.
+⚡ Fun fact I don’t trust “easy wins”—if a project doesn’t challenge me, I lose interest fast.
 
 
 ## 🌐 Socials:
