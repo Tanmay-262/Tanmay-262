@@ -8,9 +8,13 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tanmay--262-181717?style=flat-square\&logo=github)](https://github.com/Tanmay-262)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Tanmay-262\&style=flat-square\&color=58A6FF)](https://github.com/Tanmay-262)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge)](https://tanmay-jains-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Tanmay--262-181717?style=for-the-badge\&logo=github)](https://github.com/Tanmay-262)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Tanmay-262&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -71,7 +75,7 @@ I enjoy understanding a problem, designing the system around it, and then actual
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 
 `LLMs` · `Generative AI` · `AI Agents` · `RAG` · `Machine Learning`
 
@@ -79,7 +83,7 @@ I enjoy understanding a problem, designing the system around it, and then actual
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,flutter" />
 
-### Data & Infrastructure
+### Data & Tools
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,linux" />
 
@@ -128,7 +132,7 @@ I'm particularly interested in systems where AI is more than a chatbot — syste
 
 ### HackO'Clock
 
-Organized a **24-hour hackathon** involving sponsorship, marketing, outreach, coordination and event operations.
+Organized a **24-hour hackathon**, working across sponsorship, marketing, outreach, coordination and event operations.
 
 ---
 
@@ -187,6 +191,12 @@ I enjoy understanding **why something should be built, who it helps, and how tec
 
 ### `>_` Building the future, one system at a time.
 
+<br>
+
+### 🌐 Explore My Work
+
+**[Visit my Portfolio →](https://tanmay-jains-portfolio.vercel.app/)**
+
 </div>
 
 ---
@@ -195,10 +205,10 @@ I enjoy understanding **why something should be built, who it helps, and how tec
 
 ### Let's build something interesting.
 
-**[ GitHub ](https://github.com/Tanmay-262) · [ LinkedIn ](https://www.linkedin.com/)**
+**[Portfolio](https://tanmay-jains-portfolio.vercel.app/) · [GitHub](https://github.com/Tanmay-262) · [LinkedIn](https://www.linkedin.com/)**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=100&section=footer" />
 
 </div>
