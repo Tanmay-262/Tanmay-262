@@ -188,10 +188,9 @@ I enjoy understanding **why something should be built, who it helps, and how tec
 
 <div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tanmay-262/Tanmay-262/output/github-snake.svg" />
-</p>
-
+<img
+    src="https://raw.githubusercontent.com/Tanmay-262/Tanmay-262/output/github-snake.svg"
+  />
 </div>
 
 ### `>_` Building the future, one system at a time.
