@@ -160,10 +160,6 @@ I enjoy understanding **why something should be built, who it helps, and how tec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmay-262&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-262&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Tanmay-262&theme=transparent&hide_border=true" />
