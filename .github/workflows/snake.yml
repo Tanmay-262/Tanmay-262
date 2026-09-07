@@ -23,11 +23,11 @@ jobs:
         with:
           github_user_name: Tanmay-262
           outputs: |
-            dist/github-snake.svg?color_snake=#58A6FF&color_dots=#0D1117,#1F6FEB,#388BFD,#58A6FF,#79C0FF
-            dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#0D1117,#1F6FEB,#388BFD,#58A6FF,#79C0FF
+            dist/github-snake.svg?color_snake=#58A6FF&color_dots=#21262D,#1F6FEB,#388BFD,#58A6FF,#79C0FF
+            dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#21262D,#1F6FEB,#388BFD,#58A6FF,#79C0FF
 
       - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
